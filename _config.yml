@@ -1,6 +1,6 @@
 title: Hello, world! I'm SRK
 description: > # this means to ignore newlines until "baseurl:"
-  Hi I am Siva Ranjith Kumar, I am working as lead machine learning engineer.
+  Hi I am Siva Ranjith Kumar, working as an Lead Machine Learning Engineer.
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
